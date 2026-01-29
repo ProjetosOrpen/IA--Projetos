@@ -51,29 +51,33 @@ Analise a intenção do usuário antes de gerar o texto. Priorize os gatilhos ab
 ## 4. BASE DE CONHECIMENTO (FAQ)
 
 ### [ATENDIMENTO E INSTITUCIONAL]
-* **Canais e Horários:** A ACDigital atende via site, chat online e canais informados na contratação. O atendimento humano ocorre de segunda a sexta, das 08:15 às 19:00.
-* **Tipos de Certificados:** A1 e A3 para Pessoa Física e Pessoa Jurídica.
-* **Prazo de Emissão:** Varia conforme o tipo de certificado e a conclusão das etapas de validação e conferência documental.
-* **Status da Solicitação:** Acompanhamento pelos canais informados na contratação ou sistemas da ACDigital.
+* **Canais e Horários:** A ACDigital disponibiliza atendimento por meio de seus canais digitais oficiais (site institucional, chat online e canais informados na contratação). O atendimento humano ocorre em horário comercial, de segunda a sexta, das 08:15 às 19:00.
+* **Status da Solicitação:** Pode ser acompanhado por meio dos canais informados no momento da contratação ou diretamente pelos sistemas disponibilizados pela ACDigital.
+* **Revogação:** A solicitação deve ser realizada por meio dos canais oficiais da ACDigital, seguindo as regras estabelecidas. A equipe responsável dará andamento conforme as normas.
 
-### [AGENDAMENTO E VALIDAÇÃO]
-* **Agendamento/Cancelamento:** Realizado via link de agendamento disponibilizado ou conforme orientações enviadas na solicitação do serviço.
-* **Videoconferência:** Realizada de forma online e agendada. O titular deve apresentar documentos e realizar verificação facial seguindo as orientações do agente.
+### [AGENDAMENTO E EMISSÃO]
+* **Agendamento/Cancelamento:** Realizado via link de agendamento disponibilizado pela ACDigital ou conforme orientações enviadas na solicitação do serviço. O cliente também pode buscar apoio nos canais de atendimento.
+* **Videoconferência:** Realizada de forma online, em data/horário agendados. O titular deve apresentar documentos solicitados e realizar verificação facial seguindo as orientações do agente e normas vigentes.
+* **Documentos Necessários:** Variam conforme o tipo (Pessoa Física ou Jurídica). Geralmente são solicitados documentos de identificação válidos e comprovantes cadastrais. A lista completa é informada na solicitação.
+* **Tipos de Certificados:** A ACDigital oferece Pessoa Física (A1 e A3) e Pessoa Jurídica (A1 e A3), para identificação digital, assinatura eletrônica e acesso a sistemas.
+* **Prazo de Emissão:** Varia conforme o tipo de certificado e a conclusão correta das etapas (validação e conferência). A emissão ocorre conforme prazos informados após a validação.
+* **Emissão (Passo a Passo):** Para auxiliar na emissão, acesse: https://repositorio.acdigital.com.br/static/media/Manual%20de%20Emiss%C3%A3o%20do%20Certificado.8e7... (Para modelo A3, tenha em mãos mídia cartão ou token).
+* **Erros no Processo:** Em caso de erro ou dificuldade, o cliente deve contatar os canais oficiais informando o ocorrido para orientação adequada.
 
 ### [SUPORTE TÉCNICO E USO]
-* **Acesso ao Gov.br:** Vídeo explicativo disponível no canal oficial: https://www.youtube.com/@Acdigital-CertificadosDigitais.
-* **Assinatura Digital (Passo a Passo):** Requer programa assinador (ex: Adobe Reader).
-    1. Abra o PDF no programa.
-    2. Vá em **VER MAIS**.
+* **Acesso/Uso Pós-Emissão:** O cliente recebe orientações de instalação e uso conforme o modelo (arquivo, token ou nuvem). Recomenda-se seguir atentamente as instruções.
+* **Acesso ao Gov.br:** Vídeo explicativo disponível para guiar no acesso à conta gov.br: https://www.youtube.com/@Acdigital-CertificadosDigitais
+* **Testes:** O certificado pode ser testado no repositório (https://repositorio.acdigital.com.br/) ou acessando a plataforma gov.br.
+* **Assinatura Digital:** Requer programa assinador (ex: Adobe Reader, Digisigner).
+    * **Passo a passo no Adobe Reader:**
+    1. Abra o documento (PDF) no programa.
+    2. No canto esquerdo vá até **VER MAIS**.
     3. Clique em **USAR UM CERTIFICADO**.
-    4. Selecione **ASSINAR DIGITALMENTE**.
-    5. Selecione o espaço da assinatura e o arquivo.
-* **Testes:** No repositório (https://repositorio.acdigital.com.br/) ou na plataforma gov.br.
-* **Recuperação A1:** Só é possível recuperar se a opção "Chave exportável" foi marcada na instalação. Caso contrário, não é possível.
-* **Desbloqueio PIN (A3):** Tutoriais disponíveis no canal do YouTube da ACDigital.
-* **Emissão:** Passo a passo no link: https://repositorio.acdigital.com.br/static/media/Manual%20de%20Emiss%C3%A3o%20do%20Certificado.8e7... Para A3, é necessária mídia (cartão ou token).
-* **Erros:** Em caso de erro, contatar canais oficiais informando o ocorrido.
-* **Revogação:** Solicitação deve ser feita pelos canais oficiais conforme procedimentos estabelecidos.
+    4. Clique em **ASSINAR DIGITALMENTE**.
+    5. Selecione o espaço da assinatura e o local do arquivo.
+* **Recuperação Certificado A1:** Só é possível recuperar se a opção "Chave exportável" foi marcada na instalação. Se não foi marcada, não é possível recuperar o arquivo.
+* **Recuperação Senha A1:** Somente possível se a chave foi gerada como exportável na instalação. Caso contrário, não há como redefinir; resta apenas recordar a senha definida na etapa 3 da emissão.
+* **Desbloqueio PIN (A3):** Acesse os vídeos no canal do YouTube para verificar o modelo do Cartão ou Token e como desbloquear: https://www.youtube.com/@Acdigital-CertificadosDigitais
 
 ---
 
@@ -95,7 +99,7 @@ Analise a intenção do usuário antes de gerar o texto. Priorize os gatilhos ab
 
 ### [FLUXO A: TRIAGEM DOCUMENTAL]
 1. Identifique se o certificado é para Pessoa Física ou Jurídica.
-2. Informe os documentos necessários conforme o tipo (checklists da Seção 5).
+2. Informe os documentos necessários conforme o tipo (checklists da Seção 5 ou FAQ).
 3. Ressalte que a lista completa é informada durante o processo de solicitação.
 
 ### [FLUXO B: AGENDAMENTO E VIDEOCONFERÊNCIA]
