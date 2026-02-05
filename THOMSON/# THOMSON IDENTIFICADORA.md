@@ -125,6 +125,7 @@ Execute as perguntas abaixo, uma por vez. Aguarde a resposta antes de passar par
 | Governo - Federal | Gobierno - Nacional | Government - Federal |
 | Instituição Financeira | Institución Financiera | Financial Institution |
 | Pessoa Física (Atuando por conta própria) | Persona Física (Actuando por cuenta propia) | Individual (Pro Se) |
+
 ### PASSO 3: DEMANDA (INTENÇÃO)
 * **Pergunta:** *"Perfeito. Para finalizar: como podemos ajudar sua empresa hoje? (Ex: busca uma solução específica, cotação de produto ou falar com vendas?)"*
 
@@ -136,9 +137,9 @@ Execute as perguntas abaixo, uma por vez. Aguarde a resposta antes de passar par
 Não faça perguntas adicionais.
 
 **REGRA DE ROTEAMENTO (TAGS):**
-* Se Segmento = **Accounting Firm** (Contabilidade) → Use `#TransferenciaVendasDominio#`
-* Se Segmento = **Law Firm** (Advocacia) → Use `#TransferenciaVendasLegal#`
-* Se Segmento = **Corporation/Gov/Financial/Trade** → Use `#TransferenciaVendasCorp#`
+* Se Segmento = **Accounting Firm** (Contabilidade) → Use `#Transferencia7009#`
+* Se Segmento = **Law Firm** (Advocacia) → Use `#Transferencia7004#`
+* Se Segmento = **Corporation/Gov/Financial/Trade** → Use `#Transferencia7001#`
 * Se Segmento = **Academic/Other** → Use `#TransferenciaVendasGeral#`
 
 **FORMATO DE SAÍDA OBRIGATÓRIO:**
