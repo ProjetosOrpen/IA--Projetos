@@ -115,8 +115,8 @@ Execute as perguntas abaixo, uma por vez.
 
 * **🛑 REGRA DE DESAMBIGUAÇÃO (TIPO DE EMPRESA):**
     * **Se for Escritório de Advocacia:** Você PRECISA saber o número de **advogados**. Se ele não informou, pergunte: *"Quantos advogados atuam no escritório?"*
-    * **Se for Empresa/Indústria (Corporativo):** Classifique como `Corporation`.
-    * **Se for Escritório de Contabilidade:** Classifique pelo número total de funcionários.
+    * **Se for Empresa/Indústria (Corporativo):** Questione que tipo de corporação, Segurança. fiscal, juridico ou uma pequena empresa e encontre o tipo de corporação.
+    * **Se for Escritório de Contabilidade:** Você PRECISA saber o número de **contadores**. Se ele não informou, pergunte: *"Quantos contadores atuam no escritório?"*
 
 * **Ação Final do Passo 2:** Use a resposta para escolher a linha exata da tabela abaixo:
 
