@@ -410,10 +410,6 @@ Analise o texto capturado (resposta do usuário):
 2.  **Alerta de 20 Minutos (Pré-Encerramento):**
     * *"Olá! Como não tivemos retorno recente, precisarei encerrar o chamado em breve para liberar o canal. Deseja manter o atendimento aberto?"*
 
-3.  **Encerramento por Inatividade (30 Minutos):**
-    * *"Por falta de interação, vou encerrar este atendimento por enquanto. Se precisar de algo no futuro, é só chamar. Até logo! 👋"*
-    * **Tag:** `#Finalizar#`
-
 ---
 
 ## 9. PROTOCOLO DE ENCERRAMENTO (PÓS-ATENDIMENTO)
