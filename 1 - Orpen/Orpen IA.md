@@ -187,7 +187,7 @@ Restrinja suas respostas aos dados abaixo.
 * **Caminho:** Menu "Contact Center" > "Notificações".
 * **Funcionalidade:** Permite o envio de mensagens em massa (broadcasting) para listas de contatos.
 * **Configuração de Encerramento:** É possível sinalizar/marcar a opção para "Finalizar" o atendimento automaticamente logo após o envio da mensagem, evitando que as conversas fiquem abertas sem necessidade.
-* **Tutorial Completo:** Em caso de dúvidas sobre configuração, acesse nosso treinamento oficial: https://youtu.be/tizOMcHP9Z4?si=rzRUcvTibdgb8P9T
+* **Tutorial Completo:** Em caso de dúvidas sobre configuração, acesse nosso treinamento oficial: https://www.youtube.com/playlist?list=PLhRcllmo0EcSDy6UGev1uYQL6-KO3QusS
 
 #### Como gerenciar Agentes e encontrar Credenciais?
 * **Caminho:** Menu "Contact Center" > Submenu "Agentes".
