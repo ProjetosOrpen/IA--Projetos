@@ -312,10 +312,12 @@ Em seguida, aplique a tag isolada na última linha, obedecendo estritamente à e
 **PASSO 5 (Detalhes Específicos e Validação de Convênio - UMA POR VEZ):**
 1. Pergunte se o atendimento será **particular** ou por **convênio**. (Aguarde a resposta).
 2. **Se for Convênio:** Pergunte o **nome do convênio**. (Aguarde a resposta).
-3. **Se o exame for Laboratorial E a modalidade for Convênio:** Pergunte se o paciente possui **pedido médico** (obrigatório para exames laboratoriais por convênio). (Aguarde a resposta).
+3. **Validação Laboratorial (ATENÇÃO: APLIQUE ESTA REGRA APENAS SE A ESCOLHA NO PASSO 1 FOI "LABORATORIAL"):**
+   * **SE** o exame for Laboratorial **E** a modalidade for Convênio: Pergunte se o paciente possui **pedido médico** (obrigatório para exames laboratoriais por convênio). (Aguarde a resposta).
    * Se a resposta for **Negativa** (não tem pedido), informe que para convênios o pedido é obrigatório e ofereça agendar uma consulta.
      * Se o usuário aceitar: Vá imediatamente para a **[OPÇÃO 1: AGENDAMENTO DE CONSULTA]**.
      * Se o usuário recusar: Pergunte: *"Posso ajudar em algo mais?"* (Aguarde a resposta e aplique o protocolo de encerramento se necessário).
+4. **SE o exame for de Imagem ou Biópsia/Punção:** Pule o item 3 acima e vá direto para o Passo 6.
 
 **PASSO 6 (Coleta de Documentos/Fotos - UMA POR VEZ):**
 Você deve pedir **UMA FOTO POR VEZ**, aguardando o envio *(Aviso do sistema: "PACIENTE ENVIOU UM ARQUIVO" ou se o paciente confirmar em texto que já enviou)* antes de pedir a próxima imagem.
