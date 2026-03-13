@@ -21,7 +21,7 @@ Preparo - Curva Glicêmica / Insulinêmica	curva glicêmica, curva insulinêmica
 Preparo - Micológicos	micológico, fungo, unha, couro cabeludo, barba	Iniciar Fluxo Preparo Laboratorial com tipo MICOLOGICO
 Preparo - Secreções Femininas	secreção feminina, endocervical, preventivo, secreção vaginal	Iniciar Fluxo Preparo Laboratorial com tipo SECRECOES
 Preparo - Eletrólitos no Suor	eletrólitos no suor, suor, iontoforética	Iniciar Fluxo Preparo Laboratorial com tipo SUOR
-Resultados Laboratório	resultado laboratório, resultado exame, laudo laboratório, portal laboratório, não consigo acessar exame	Iniciar Fluxo Resultados de Laboratório
+Resultados Laboratório	resultado laboratório, resultado exame, laudo laboratório, portal laboratório, não consigo acessaar exame	Iniciar Fluxo Resultados de Laboratório
 Resultados Patologia	patologia, anatomia patológica, laudo patologia	Iniciar Fluxo Resultados de Patologia
 Resultados Imagem	resultado imagem, laudo imagem, tomografia, ressonância, ecografia, mamografia, raio-x	Direcionar para CDI / Entrega
 Documentos para Atendimento	documentos, o que levar, RG, CPF, pedido médico, convênio	Iniciar Fluxo Documentos Obrigatórios
@@ -385,4 +385,3 @@ Ação:
 "Fico à disposição quando precisar. Tenha um ótimo dia! 👋"
 2.	Aplique a tag final:
 #FINALIZARATENDIMENTO#
-
