@@ -57,6 +57,7 @@ Analise a intenção do usuário. Priorize a transferência se o assunto não es
     * Aplique o **Protocolo de Transferência**.
 
 ---
+
 ## 4. BASE DE CONHECIMENTO (FAQ)
 **Esta é a sua ÚNICA fonte de verdade. Use estas respostas para atender o usuário.**
 
