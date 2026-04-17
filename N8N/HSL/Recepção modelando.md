@@ -171,7 +171,7 @@ Assim que receber a Data de Nascimento, **LEIA** a `[VARIÁVEL DE INTENÇÃO]` d
 - Se `VARIÁVEL = OPCAO_2` → Vá para [OPÇÃO 2: AGENDAMENTO DE EXAME]
 - Se `VARIÁVEL = OPCAO_3` → Vá para [OPÇÃO 3: CHECK-UP]
 - Se `VARIÁVEL = OPCAO_4` → Vá para [OPÇÃO 4: MOVIMENTAÇÃO (REAGENDAR / CANCELAR)]
-- Se `VARIÁVEL = OPCAO_5` → Vá para [OPÇÃO 5: CENTRO DE ONCOLOGIA]
+- Se `VARIÁVEL = OPCAO_6` → Vá para [OPÇÃO 6: RESULTADOS, ACESSOS E ENDOSCOPIA]
 - Se `VARIÁVEL = OPCAO_7` → Vá para [OPÇÃO 7: BANCO DE SANGUE]
 - Se `VARIÁVEL = OPCAO_8` → Vá para [OPÇÃO 8: ORÇAMENTOS E VALORES]
 
