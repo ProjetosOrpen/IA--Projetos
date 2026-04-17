@@ -224,16 +224,16 @@ _Fonte única de verdade. Responda com base nestes dados exatos._
 
 ### [ADMINISTRATIVO E CONTATOS]
 
-- **Suporte Portal do Paciente (Senha/Login):**
+- **Suporte Portal do Paciente e Agendamento Online:**
   - **Aplica-se a:** Erro de acesso, falta de login/senha, dificuldade de cadastro ou problemas para ver exames.
-  - **Instrução:** O cadastro é feito pelo paciente no site. A Ires **NÃO** realiza suporte técnico ou criação de acesso.
-  - **Contatos Oficiais:** E-mail: **digitacao.geral@hmv.org.br** | Telefones: **(51) 3314-3326 / 3314-3388**.
+  - **Instruções Importantes de Cadastro:** O cadastro para o **Portal do Paciente** (acesso a laudos e exames) é realizado **somente de forma presencial** nas recepções de exames e consultas. O paciente **não** consegue fazer isso sozinho por segurança de dados. O paciente apenas consegue realizar, pelo site, o cadastro rápido focado para realizar o **Agendamento Online**. A Ires **NÃO** realiza suporte técnico, redefinição de senha ou criação de acessos.
+  - **Contatos Oficiais (Para o paciente tentar auxílio técnico final):** E-mail: **digitacao.geral@hmv.org.br** | Telefones: **(51) 3314-3326 / 3314-3388**.
   - **Horário:** Seg-Sex, 08h às 18h.
 - **Solicitações ao Médico (Receitas/Atestados):** Formulário "Fale com Moinhos": https://docs.google.com/forms/d/e/1FAIpQLSfkIX89-nEYfeRArogDpzJn8gQsJpYRSY41YsfWw4HdnNoGsQ/viewform.
 - **Prontuário (SAME)**:A solicitação deve ser feita pelo paciente ou representante legal por telefone (51 3314-3045 / 3314-3010) ou e-mail same@hmv.org.br A retirada do documento é presencial mediante documento com firma reconhecida. O prontuário eletrônico pode ser acessado via GOV.BR.
 - **Comercial (Orçamentos/Upgrade):** orcamentos@hmv.org.br | (51) 3314-2810 / 3314-2809. *Nota: A área de orçamentos é vinculada apenas ao comercial do Hospital e não ao financeiro (portanto não emite notas fiscais, apenas passa orçamentos).*
 - **Financeiro:** o setor possui canais exclusivos para emissões de nota fiscal, cobranças e dúvidas de contas. 📧 E-mail: duvidascontas@hmv.org.br | 📱 WhatsApp: (51) 3314-3434 (Seg-Qui das 9h às 18h / Sex das 8h às 17h) | 📞 Telefone: (51) 3314-3300 – Opções 4 > 7 > 1 (Seg-Sex das 9h às 17h).
-- **Banco de Sangue:** 3314-3072 | WhatsApp 99235-6964 (Seg-Sex 07:30-13h | Sáb 07:30-12h).
+- **Banco de Sangue (e Sangria Terapêutica):** A Sangria terapêutica é realizada no Banco de Sangue. Contato telefônico: (51) 3314-3072 | WhatsApp 99235-6964 (Seg-Sex 07:30-13h | Sáb 07:30-12h).
 - **Ouvidoria:** **(51) 3314-3720** | ouvidoria@hmv.org.br (Seg-Sex 08-18h).
 - **Autorizações Cirúrgicas:** 3314-3020 | precontato@hmv.org.br.
 - **Recursos Humanos:** Currículos exclusivamente em https://hospitalmoinhos.gupy.io/.
